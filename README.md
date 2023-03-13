@@ -1,6 +1,6 @@
 <h1>Hi, I’m Rodrigo</h1>
 <div style="display: inline_block"><br>
-   <h3> These are the main languages that I'm into </h3>
+   <h3>  - The languages:  </h3>
   <img align="center" alt="OCaml" height="30" width="40" src="https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
