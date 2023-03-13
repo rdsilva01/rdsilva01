@@ -1,4 +1,4 @@
-- Hi, I’m Rodrigo
+<h1>Hi, I’m Rodrigo</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="OCaml" height="30" width="40" src="https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
