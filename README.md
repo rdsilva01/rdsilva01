@@ -3,7 +3,7 @@
 - Get to know more of me on my website: [tintadaraiz](https://tintadaraiz.github.io)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="OCaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/ocaml-original.svg">
+  <img align="center" alt="OCaml" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/ocaml-original.svg](https://www.vectorlogo.zone/logos/ocaml/ocaml-icon.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
