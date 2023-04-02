@@ -6,7 +6,7 @@ Hi, I'm Rodrigo, from 🇵🇹
 - `public static string learningCSharp() => "Learning C#!";`
 <a href="https://app.daily.dev/tintadaraiz"><img src="https://api.daily.dev/devcards/e2f3338c8d524af0963791232e28dbea.png?r=ykz" width="350" alt="rodrigo's Dev Card"/></a> -->
 
-Hey there, I'm Rodrigo, from Portugal 🇵🇹!
+##Hey there, I'm Rodrigo, from Portugal 🇵🇹!
 
 I'm a computer science and engineering student with a passion for programming, cars, and music. As part of my studies, I'm currently learning a variety of programming languages, such as Java, OCaml, C, Javascript. Also learning C# by myself! 
 
