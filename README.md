@@ -15,6 +15,7 @@ I'm excited to continue my studies and explore new areas of programming. As I de
 
 Let's connect:  
 <img alt="LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" /> [LinkedIn](https://www.linkedin.com/in/rodrigo-silva-455b291bb/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tintadaraiz&layout=donut&count_private=true&show_icons=true&bg_color=00000000)
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=tintadaraiz&count_private=true&show_icons=true&bg_color=00000000)
