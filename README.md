@@ -16,3 +16,4 @@ I'm excited to continue my studies and explore new areas of programming. As I de
 Let's connect!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tintadaraiz&layout=compact&theme=dark&hide=CSS)
+![My Stats](https://github-readme-stats.vercel.app/api?username=tintadaraiz&count_private=true)
