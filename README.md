@@ -1,4 +1,4 @@
-## Hey there, I'm Rodrigo, from Portugal 🇵🇹!
+## Hey there, I'm Rodrigo 🇵🇹!
 ---
 
 Currently I'm in my 3rd year of Computer Science and Engineering at UBI (Portugal). 
