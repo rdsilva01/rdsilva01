@@ -11,7 +11,7 @@ I share an interest in Web and Applications development. Academically I've learn
 I consider myself a fast learner and I really enjoy working on a team, to develop myself personally and professionally.
 
 
-Feel free to check on my repositories and anything just send me a message!
+Feel free to check on my repositories and if anything comes up just send me a message!
 
 
 Let's connect:  [LinkedIn](https://www.linkedin.com/in/rodrigo-silva-455b291bb/) <img alt="LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
