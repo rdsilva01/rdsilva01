@@ -1,4 +1,4 @@
-    User.getName(rdsilva01)
+    ./getName(rdsilva01)
     > Rodrigo Silva
 
 Yep, that's me, cool function.
