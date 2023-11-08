@@ -17,5 +17,4 @@ Feel free to check on my repositories and if anything comes up just send me a me
 Let's connect:  [LinkedIn](https://www.linkedin.com/in/rodrigo-silva-455b291bb/) <img alt="LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdsilva01&layout=donut&count_private=true&show_icons=true&bg_color=00000000)
-
 ![My Stats](https://github-readme-stats.vercel.app/api?username=rdsilva01&count_private=true&show_icons=true&bg_color=00000000)
