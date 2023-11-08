@@ -9,7 +9,7 @@ In here I could say what I've learned academically and personally, but I prefer 
 
 [linkedin](https://www.linkedin.com/in/rodrigo-silva-455b291bb/)
 [instagram](https://www.instagram.com/rodrids01/)
-[X (twitter)](https://www.twitter.com/rodrids_/)
+[twitter](https://www.twitter.com/rodrids_/)
 
 Also feel free to check up my personal website:
 [rdsilva01](https://www.rdsilva01.github.io/) 🏁
