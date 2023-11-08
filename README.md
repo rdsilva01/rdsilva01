@@ -2,19 +2,11 @@
 ---
 
 
-Currently I'm in my 3rd year of Computer Science and Engineering at UBI (Portugal). 
+Currently I'm in my 3rd year of Computer Science and Engineering at UBI (Portugal).
 
+In here I could say what I've learned academically and personally, but I prefer to demonstrate it, so feel free to check my repositories, and if anything comes up, don't hesitate to send me a message, through an email or any other way really.
 
-I share an interest in Web and Applications development. Academically I've learned several programming languages such as Java, OCaml, C, C#, Javascript (and some frameworks of it), PHP and the web development base (HTML & CSS). At the moment I'm learning Flutter (Android development), C++ (For graphical interfaces), SQL (DBMS) and Python (AI).
-
-
-I consider myself a fast learner and I really enjoy working on a team, to develop myself personally and professionally.
-
-
-Feel free to check on my repositories and if anything comes up just send me a message!
-
-
-Let's connect:  [LinkedIn](https://www.linkedin.com/in/rodrigo-silva-455b291bb/) <img alt="LinkedIn" width="22px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+LinkedIn:  [LinkedIn](https://www.linkedin.com/in/rodrigo-silva-455b291bb/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdsilva01&layout=donut&count_private=true&show_icons=true&bg_color=00000000)
 ![My Stats](https://github-readme-stats.vercel.app/api?username=rdsilva01&count_private=true&show_icons=true&bg_color=00000000)
