@@ -1,5 +1,7 @@
-### User.getName(rdsilva01)
+    User.getName(rdsilva01)
     > Rodrigo Silva
+
+Yep, that's me, cool function.
 
 Currently I'm in my 3rd year of Computer Science and Engineering at UBI (Portugal).
 
