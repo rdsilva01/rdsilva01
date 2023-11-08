@@ -11,5 +11,7 @@ In here I could say what I've learned academically and personally, but I prefer 
 [instagram](https://www.instagram.com/rodrids01/)
 [X (twitter)](https://www.twitter.com/rodrids_/)
 
-Also feel free to check up my personal website
+Also feel free to check up my personal website:
 [rdsilva01](https://www.rdsilva01.github.io/)
+
+🏎️
