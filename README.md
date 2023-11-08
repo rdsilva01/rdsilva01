@@ -9,3 +9,4 @@ In here I could say what I've learned academically and personally, but I prefer 
 
 [linkedin](https://www.linkedin.com/in/rodrigo-silva-455b291bb/)
 [instagram](https://www.instagram.com/rodrids01/)
+[X (twitter)](https://www.twitter.com/rodrids_/)
