@@ -12,5 +12,5 @@ In here I could say what I've learned academically and personally, but I prefer 
 [twitter](https://www.twitter.com/rodrids_/)
 
 Also feel free to check up my personal website:
-[rdsilva01](https://www.rdsilva01.github.io/) 🏁
+[rdsilva01](https://rdsilva01.github.io/) 🏁
 
