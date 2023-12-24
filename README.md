@@ -3,7 +3,7 @@
 
 Yep, that's me, cool function.
 
-Currently I'm in my 3rd year of Computer Science and Engineering at UBI (Portugal).
+Currently I'm in my 3rd year of Engenharia Informática (Computer Science and Engineering) @ UBI (Portugal).
 
 In here I could say what I've learned academically and personally, but I prefer to demonstrate it, so feel free to check my repositories, and if anything comes up, don't hesitate to send me a message, through an email or any other way really.
 
