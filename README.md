@@ -1,5 +1,5 @@
 
-<img width="1415" alt="blu" src="https://github.com/rdsilva01/rdsilva01/assets/101207588/deb060e5-d035-4f09-b511-e3f50605b207">
+<img width="1415" height="100" alt="blu" src="https://github.com/rdsilva01/rdsilva01/assets/101207588/deb060e5-d035-4f09-b511-e3f50605b207">
 
 Currently I'm in my 3rd year of Engenharia Informática [Computer Science and Engineering] @ UBI [Portugal].
 
