@@ -13,11 +13,11 @@ In here I could say what I've learned academically and personally, but I prefer 
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   19 mins         ███████████████░░░░░░░░░░   60.15 %
-TypeScript   11 mins         ████████▓░░░░░░░░░░░░░░░░   34.93 %
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+CSS          23 mins         ████████▒░░░░░░░░░░░░░░░░   33.39 %
+JavaScript   21 mins         ███████▓░░░░░░░░░░░░░░░░░   30.82 %
+HTML         12 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+TypeScript   11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
