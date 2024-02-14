@@ -14,11 +14,11 @@ recent work:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 42 mins  █████████████▓░░░░░░░░░░░   54.21 %
-JavaScript   4 hrs 32 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
-CSS          1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-HTML         1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 %
-Python       31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+TypeScript   16 hrs 38 mins  ███████████████▒░░░░░░░░░   61.58 %
+JavaScript   5 hrs 7 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.96 %
+CSS          1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+HTML         1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+JSON         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
