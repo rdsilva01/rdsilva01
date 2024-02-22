@@ -10,6 +10,8 @@ In here I could say what I've learned academically and personally, but I prefer 
 [linkedin](https://www.linkedin.com/in/rodrigo-silva-455b291bb/)
 [webfolio](https://rdsilva01.github.io/) 🏁
 
+![](https://komarev.com/ghpvc/?username=rdsilva01)
+
 recent work:
 <!--START_SECTION:waka-->
 
