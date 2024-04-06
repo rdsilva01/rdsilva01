@@ -17,11 +17,11 @@ recent work:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML                       8 hrs 55 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
-Python                     7 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.32 %
-YAML                       1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-JSON                       1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Nginx configuration file   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+HTML                       10 hrs 31 mins  █████████▒░░░░░░░░░░░░░░░   37.78 %
+Python                     7 hrs 59 mins   ███████░░░░░░░░░░░░░░░░░░   28.66 %
+YAML                       1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
+Markdown                   1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Nginx configuration file   1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 <!--END_SECTION:waka-->
