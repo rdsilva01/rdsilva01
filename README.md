@@ -4,7 +4,7 @@
 \> Enthusiastic about developing and building solutions <br>
 \> Engenharia Informática @ UBI (2021 - Present)
 
-<a href="https://www.rodrigosilva.live/">personal website</a> 🏁
+<!-- <a href="https://www.rodrigosilva.live/">personal website</a> 🏁 -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=rdsilva01) -->
 
