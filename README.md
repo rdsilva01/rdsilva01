@@ -12,10 +12,7 @@ recent work includes:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   32 mins         ████████████████████████▓   98.68 %
-JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
