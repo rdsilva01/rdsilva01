@@ -12,11 +12,9 @@ recent work includes:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 39 mins   █████████████░░░░░░░░░░░░   51.85 %
-JSON         1 hr 29 mins    ███████▒░░░░░░░░░░░░░░░░░   29.17 %
-TypeScript   45 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Text         10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Python   2 hrs 8 mins    ██████████████▒░░░░░░░░░░   56.87 %
+JSON     1 hr 26 mins    █████████▓░░░░░░░░░░░░░░░   38.39 %
+Text     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
