@@ -12,10 +12,10 @@ recent work includes:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   10 hrs 31 mins  ███████████████████░░░░░░   76.55 %
-HTML         3 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-BibTeX       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+JavaScript   13 hrs 30 mins  ██████████████████▒░░░░░░   73.91 %
+HTML         4 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
+CSS          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
