@@ -12,11 +12,11 @@ recent work includes:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        10 hrs 51 mins  ████████▒░░░░░░░░░░░░░░░░   33.13 %
-Python       10 hrs 39 mins  ████████░░░░░░░░░░░░░░░░░   32.53 %
-JavaScript   7 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
-Markdown     1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-JSON         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Other        11 hrs 55 mins  ██████████▒░░░░░░░░░░░░░░   40.98 %
+Python       9 hrs 57 mins   ████████▓░░░░░░░░░░░░░░░░   34.23 %
+JavaScript   4 hrs 10 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.35 %
+Markdown     1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+JSON         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 ```
 
 <!--END_SECTION:waka-->
