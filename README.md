@@ -12,11 +12,8 @@ recent work includes:
 <!--START_SECTION:waka-->
 
 ```txt
-Other    5 hrs 53 mins         ███████████████████▓░░░░░   78.32 %
-Python   1 hr 25 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.05 %
-YAML     11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Docker   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-Bash     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other    6 hrs 16 mins         ████████████████████████▒   97.98 %
+Python   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
