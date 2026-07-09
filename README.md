@@ -12,10 +12,10 @@ recent work includes:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        8 hrs 5 mins          ██████████████████████▓░░   90.99 %
-Markdown     34 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-JSON         10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-JavaScript   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Other        4 hrs 46 mins         █████████████████████▒░░░   85.61 %
+Markdown     34 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
+JSON         10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+JavaScript   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
