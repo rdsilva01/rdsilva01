@@ -12,8 +12,7 @@ recent work includes:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 19 mins         █████████████████████████   99.82 %
-JavaScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other   1 hr 33 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
