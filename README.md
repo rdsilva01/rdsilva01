@@ -12,11 +12,7 @@ recent work includes:
 <!--START_SECTION:waka-->
 
 ```txt
-Text         12 mins               ████████░░░░░░░░░░░░░░░░░   32.35 %
-Other        11 mins               ███████▓░░░░░░░░░░░░░░░░░   30.59 %
-Python       11 mins               ███████▒░░░░░░░░░░░░░░░░░   29.79 %
-Markdown     2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
-Git Config   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
